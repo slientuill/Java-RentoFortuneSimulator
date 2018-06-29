@@ -1,0 +1,2 @@
+# Java-RentoFortuneSimulator
+用JAVA来模拟扔10万次骰子以计算每块地的价值
